@@ -7,7 +7,6 @@ A work in progress with the objective of implementing most of the general purpos
  * Stack
  * Queue
  * List
- * KeyNode
  * BinSearchTree
 
 ## Untested structures:
